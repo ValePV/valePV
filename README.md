@@ -3,7 +3,7 @@
 
 ### Diseño
 
-![](assets/images/portafolio.png)
+![](assets/images/design.jpg)
 
 ### Paleta de Colores
 
@@ -13,17 +13,17 @@
 
 #### Opción 2
 
-![](assets/images/opcion2.jpg)
+![](assets/images/opcion2.png)
 
 #### Opción 3
 
-![](assets/images/opcion3.jpg)
+![](assets/images/opcion3.png)
 
 #### Opción 4
 
-![](assets/images/opcion4.jpg)
+![](assets/images/opcion4.png)
 
 #### Opción 5
 
-![](assets/images/opcion5.jpg)
+![](assets/images/opcion5.png)
 
