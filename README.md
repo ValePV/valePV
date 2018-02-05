@@ -25,5 +25,5 @@
 
 #### Opción 5
 
-![](assets/images/opcion5.png)
+![](assets/images/opcion5.PNG)
 
