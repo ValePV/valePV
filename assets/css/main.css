@@ -699,7 +699,7 @@ body{
     font-family: Unica One;
     font-size: 55px;
     color: #001F52;
-    text-shadow: 0 10px 20px rgba(237, 226, 236, 0.5);
+    text-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
     padding:10px 0px 0px 0px;
   }
   .cont-about{
