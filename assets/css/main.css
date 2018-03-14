@@ -728,8 +728,7 @@ body{
     margin:10px 40px 70px 40px;
   }
   .section-about h4 {
-    color: #001F52;
-    text-shadow: 0 5px 5px rgba(237, 226, 236, 0.5);
+    color: rgba(255, 255, 255, 0.7);
     font-size: 25px;
     font-family: Federo;
     margin-bottom: 40px;
@@ -744,7 +743,7 @@ body{
     background-color:#001F52;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
     align-content: center;
-    margin:300px 0px 50px 0px;
+    margin:200px 0px 50px 0px;
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 1s;
     
