@@ -600,7 +600,7 @@ body{
     font-size: 32px;
   }
   .navbar-doublerow .navbar-down ul>li>a{
-    font-size: 25px;
+    font-size: 30px;
     color: rgba(255, 255, 255, 0.7);
     font-family: Federo;
     transition: border-bottom .2s ease-in , transform .2s ease-in-out;
@@ -627,6 +627,7 @@ body{
   }
   .flex-item {
     margin:0px 100px 0px 30px;
+
   }
   /*text*/
   .text-white,.text-white-hover:hover{
@@ -657,6 +658,7 @@ body{
     margin-top: 10px;
 
   }
+
   /*
   .cont-icon{
     text-align: center;
@@ -798,7 +800,7 @@ body{
   }
   .cont-proyect{
     background-color: rgba(0, 0, 0, 0.2);
-    height: 15vh;
+    height: 14vh;
   }
   .icon-proyect-int{
     margin: 0px 60px;
@@ -811,7 +813,7 @@ body{
     float: right;
   }
   .text-work{
-    margin-top: 50px;
+    margin-top: 70px;
     padding: 30px 0px 30px 0px;
     font-family: Federo;
     color: rgba(255, 255, 255, 0.7);
@@ -821,7 +823,8 @@ body{
     font-family: Federo;
     color: rgba(255, 255, 255, 0.7);
     font-size: 23px;
-    padding: 0px 25px 30px 25px;
+    padding: 0px 25px 15px 25px;
+    margin-bottom: 0;
   }
   .icon-proyect{
     color: rgba(255, 255, 255, 0.7);

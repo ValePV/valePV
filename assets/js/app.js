@@ -103,7 +103,7 @@ window.onload = function() {
       });
 
       $(window).scroll(function() {
-        if($(this).scrollTop() > 1700) {
+        if($(this).scrollTop() > 1400) {
           $('.logo-movil-nav').css('opacity','0.3');
         } else{
           $('.logo-movil-nav').css('opacity','1.0');
