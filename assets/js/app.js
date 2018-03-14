@@ -94,13 +94,22 @@ window.onload = function() {
       $('.but-ab').click(function(){
         $('.picture').addClass('animated zoomInDown');
         $('.cont-about').addClass('animated fadeIn');
+        $('.logo-movil-nav').css('opacity','0.3');
       });
 
-      $('.but-ab').click(function(){
+      $('.but-wor').click(function(){
         $('.cont-work').addClass('animated fadeIn');
+        $('.logo-movil-nav').css('opacity','0.3');
       });
 
-      
+      $(window).scroll(function() {
+        if($(this).scrollTop() > 1700) {
+          $('.logo-movil-nav').css('opacity','0.3');
+        } else{
+          $('.logo-movil-nav').css('opacity','1.0');
+        }  
+
+      });
 
 
 
