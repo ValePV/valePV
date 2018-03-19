@@ -245,7 +245,7 @@ body{
   }
   .section-about ul{
     list-style: none;
-    margin-top: 70px;
+    margin-top: 45px;
     padding: 10px 0px 10px 40px;
     background-color: rgba(0, 0, 0, 0.2);
   }
@@ -330,11 +330,14 @@ body{
     background:  #001F52;
   }
   .ch-img-1 { 
-    background-image: url(../images/arale.png);
+    background-image: url(../images/posibilidad.jpg);
     background-size: cover;
   }
   .mesaje{
     margin:90px 0px 0px 6px;
+  }
+  .go-work{
+    color: #001F52;
   }
   .ch-info h5 {
     color: #fff;
@@ -413,19 +416,19 @@ body{
     box-shadow:1px 3px 15px #555;
   }
   ul.accordion li.proyect1{
-    background-image:url(../images/ladrillo.jpg);
+    background-image:url(../images/proyecto1.png);
   }
   ul.accordion li.proyect2{
-    background-image:url(../images/ladrillo.jpg);
+    background-image:url(../images/proyecto2.png);
   }
   ul.accordion li.proyect3{
-    background-image:url(../images/ladrillo.jpg);
+    background-image:url(../images/proyecto3.png);
   }
   ul.accordion li.proyect4{
-    background-image:url(../images/ladrillo.jpg);
+    background-image:url(../images/proyecto4.png);
   }
   ul.accordion li.proyect5{
-    background-image:url(../images/ladrillo.jpg);
+    background-image:url(../images/proyecto5.png);
   }
   /*ul.accordion li.bleft{
     border-left:2px solid #fff;
@@ -758,7 +761,7 @@ body{
   }
   .section-about ul{
     list-style: none;
-    margin-top: 70px;
+    margin-top: 20px;
     padding: 10px 0px 10px 60px;
     background-color: rgba(0, 0, 0, 0.2);
   }
@@ -780,6 +783,23 @@ body{
   .contain-proyect1{
     margin: 30px 50px 30px 50px ;
   }
+  .proyect-1{
+    background-image: url(../images/);
+    background-size: cover;
+  }
+  .proyect-2{
+    background-image: url(../images/);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .proyect-3{
+    background-image: url(../images/);
+    background-size: cover;
+  }
+  .proyect-4{
+    background-image: url(../images/);
+    background-size: cover;
+  }
   .cont-work{
     margin:20px 0px 0px 0px;
     background-color:rgba(0, 0, 31, 0.8);
@@ -788,32 +808,38 @@ body{
   .contain-pict-proyect{
     background-color: rgba(255, 255, 255, 0.7);
     margin-top: 30px;
-    padding-top: 150px;
-    height: 27vh;
+    padding-top: 260px;
+    height: 35vh;
+    overflow: auto;
   }
   .contain-pict-proyect1{
     background-color: rgba(255, 255, 255, 0.7);
     margin-top: 20px;
-    padding-top: 150px;
-    height: 27vh;
+    padding-top: 260px;
+    height: 35vh;
+    overflow: auto
   }
   .cont-proyect{
     background-color: rgba(0, 0, 0, 0.2);
-    height: 14vh;
+    height: 17vh;
+    overflow: auto;
+
   }
   .icon-proyect-int{
     margin: 0px 60px;
     font-size: 40px;
     float: left;
+    
   }
   .icon-proyect-git{
     margin: 0px 60px;
     font-size: 40px;
     float: right;
+    
   }
   .text-work{
-    margin-top: 70px;
-    padding: 30px 0px 30px 0px;
+    /*margin-top: 70px;*/
+    padding: 10px 0px 10px 0px;
     font-family: Federo;
     color: rgba(255, 255, 255, 0.7);
     text-shadow: 0 10px 20px rgba(0, 0, 31, 0.8);
@@ -829,7 +855,7 @@ body{
     color: rgba(255, 255, 255, 0.7);
   }
   .proyect{
-    margin-top: 220px;
+    margin-top: 200px;
 
   }
 
