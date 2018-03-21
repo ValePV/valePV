@@ -27,6 +27,25 @@ window.onload = function() {
       $('.section-work').show();
     });
 
+    $('.but-go-back').click(function(){
+      $('.home-section').show();
+      $('.section-about').hide();
+      $('.section-work').hide();
+    })
+
+    $('.but-go-back').click(function(){
+      $('.home-section').show();
+      $('.section-about').hide();
+      $('.section-work').hide();
+    })
+
+    $('.but-go-back-work').click(function(){
+      $('.home-section').hide();
+      $('.section-about').show();
+      $('.section-work').hide();
+    })
+    
+
      //slider de skills
     // intervalos en n segundos
     setInterval(function(){
@@ -85,7 +104,7 @@ window.onload = function() {
       });
 
       $('.but-wor').click(function(){
-        $('.cont-work').addClass('animated fadeIn');
+        $('.title-work').addClass('animated bounceIn');
         $('.logo-movil-nav').css('opacity','0.3');
       });
 

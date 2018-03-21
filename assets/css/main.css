@@ -220,6 +220,20 @@ body{
     width: 200px;
     margin: 10px 0px 0px 45px;
   }
+    
+  .go-back{
+    margin-top: 60px;
+    font-size: 30px;
+  }
+
+  .go-back-cont a{
+    color: rgba(237, 226, 236, 0.5);
+  }
+
+  .go-back-cont a:hover{
+    color: #FF8D68;
+  }
+
   .section-about h1{
     font-size: 50px;
     font-family: Unica One;
@@ -232,6 +246,7 @@ body{
     font-family: Federo;
     font-size: 20px;
     color:rgba(237, 226, 236, 0.5);
+    margin-bottom: 45px;
   }
   .img-pro{
     margin: 10px 20px;
@@ -390,6 +405,7 @@ body{
     /*margin-left: 250px;*/
     padding: 60px 0px 00px 0px;
     display: inline-block;
+    margin-bottom: 60px;
     
   }
   .proy-to {
@@ -867,59 +883,55 @@ body{
     display: inline-block;
     color: rgba(255, 255, 255, 0.7);
     font-family: Unica One;
+    margin-left: 520px;
   }
   .contain-proyect{
-    margin: 200px 50px 30px 50px ;
+    margin: 30px 50px 30px 50px ;
   }
   .contain-proyect1{
     margin: 30px 50px 30px 50px ;
   }
   .proyect-1{
     background-image: url(../images/hackathon.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    padding-top: 380px;
+    padding-top: 333px;
+    margin-bottom: 20px;
   }
   .proyect-2{
     background-image: url(../images/redsocial.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    padding-top: 370px;
+    padding-top: 333px;
+    margin-bottom: 20px;
   }
   .proyect-3{
     background-image: url(../images/SunsetApi.png);
     background-size: contain;
     background-repeat: no-repeat;
-    padding-top: 370px;
+    padding-top: 333px;
+    margin-bottom: 20px;
   }
   .proyect-4{
     background-image: url(../images/Pokedex.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    padding-top: 370px;
-    margin-bottom: 30px;
+    padding-top: 333px;
+    margin-bottom: 20px;
   }
   .cont-work{
-    margin:20px 0px 0px 0px;
-    background-color:rgba(0, 0, 31, 0.8);
-    text-align: center;
+    margin:180px 0px 0px 0px;
   }
   .contain-pict-proyect{
     background-color: rgba(0, 0, 0, 0.5);
     margin-top: 20px;
-    height: 33vh;
+    height: 30vh;
     overflow: auto;
-  }
-  .contain-pict-proyect1{
-    background-color: rgba(0, 0, 0, 0.5);
-    margin-top: 20px;
-    height: 33vh;
-    overflow: auto
   }
   .cont-proyect{
     background-color: rgba(0, 0, 0, 0.5);
-    height: 11vh;
-    overflow: auto;
+    height: 10vh;
+    overflow: hidden;
 
   }
   .icon-proyect-int{
