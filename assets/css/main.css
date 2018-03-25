@@ -261,7 +261,7 @@ body{
   .section-about ul{
     list-style: none;
     margin-top: 45px;
-    padding: 10px 0px 10px 40px;
+    padding: 10px 0px 10px 150px;
     background-color: rgba(0, 0, 0, 0.2);
   }
   li{
